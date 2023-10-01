@@ -12,6 +12,7 @@
         <module>blocking-queue</module>
         <module>unsafe</module>
         <module>reflect</module>
+        <module>aspose-excel</module>
     </modules>
 
     <properties>
