@@ -52,8 +52,8 @@ public abstract class ObjectPool<T> {
         T freeObject = findFreeObject();
         if (freeObject == null) {
             createObjects(INCREMENT_SIZE);
-            T freeObject1 = findFreeObject();
-            if (freeObject1 == null) {
+            freeObject = findFreeObject();
+            if (freeObject == null) {
                 return null;
             }
         }
