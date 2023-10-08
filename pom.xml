@@ -16,6 +16,7 @@
         <module>sentinel-demo</module>
         <module>https-demo</module>
         <module>reactor-demo</module>
+        <module>object-pool</module>
     </modules>
 
     <properties>
