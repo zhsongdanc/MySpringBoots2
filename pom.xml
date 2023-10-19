@@ -17,6 +17,7 @@
         <module>https-demo</module>
         <module>reactor-demo</module>
         <module>object-pool</module>
+        <module>jackson-test</module>
     </modules>
 
     <properties>
