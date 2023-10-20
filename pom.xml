@@ -18,6 +18,7 @@
         <module>reactor-demo</module>
         <module>object-pool</module>
         <module>jackson-test</module>
+        <module>lombok-test</module>
     </modules>
 
     <properties>
